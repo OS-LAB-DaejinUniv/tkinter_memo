@@ -28,9 +28,12 @@ Add a Batch File to Startup:
 - Copy your .bat file into this folder
 
 - ### Linux(Debian/Ubuntu)
-  
+
+- Enter Startup Application : GUI Program run automatically at boot time
+- Add a new itme : enter a Python script in the command
+- `python3 /home/username/tkinter_memo/todo_memo.py`
 
 ---
 Version2 Released!! 
 - Auto Save!
-- Tk programm Icon added!
+- Tk program Icon added!
