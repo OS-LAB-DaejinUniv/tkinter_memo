@@ -27,7 +27,10 @@ Add a Batch File to Startup:
 - Type `shell:startup` and press Enter to open the Startup folder
 - Copy your .bat file into this folder
 
----
-Version 2 may come out as an installer. Also, features may be added or improved.
+- ### Linux(Debian/Ubuntu)
+  
 
-**To Be Continue...**
+---
+Version2 Released!! 
+- Auto Save!
+- Tk programm Icon added!
